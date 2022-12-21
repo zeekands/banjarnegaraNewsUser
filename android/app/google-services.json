@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "149185348244",
+    "project_id": "berita-49371",
+    "storage_bucket": "berita-49371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149185348244:android:fb1ad147803687f4876a81",
+        "android_client_info": {
+          "package_name": "com.tubes.postnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149185348244-ev917qffkphkps0k3vocq75qlpcnpvs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0lhukAaz1QkJ4jMxNWAQWiuUlDfT-U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149185348244-ev917qffkphkps0k3vocq75qlpcnpvs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149185348244-dgmuu9r0ei0plu27ajj55d3sioa259ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tubes.postnews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149185348244:android:59b6f9e03ebbaebb876a81",
+        "android_client_info": {
+          "package_name": "com.zeekands.banjarnegaranews.banjarnegaranews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149185348244-ev917qffkphkps0k3vocq75qlpcnpvs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0lhukAaz1QkJ4jMxNWAQWiuUlDfT-U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149185348244-ev917qffkphkps0k3vocq75qlpcnpvs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149185348244-dgmuu9r0ei0plu27ajj55d3sioa259ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tubes.postnews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

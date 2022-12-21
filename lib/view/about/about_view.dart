@@ -15,7 +15,7 @@ class _AboutViewState extends State<AboutView> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "About Us",
+          "Tentang Kami",
           style: TextStyle(color: Colors.red[700], fontWeight: FontWeight.bold),
         ),
         centerTitle: true,
@@ -39,7 +39,8 @@ class _AboutViewState extends State<AboutView> {
             ),
             SizedBox(height: 10),
             Text(
-              "News App is an app that coudl provide you with the latest news and articles from all over the world. You can also add your own articles and news to the app. This app is made by a team of 3 people, namely: ",
+              """Banjarnegara News dibuat tahun 2022 berbasis mobile agar anda mudah mendapatkan berita dan informasi
+Selain membaca berita dan informasi anda juga dapat mempromosikan usaha anda dengan membuat artikel.""",
               style: TextStyle(fontSize: 14),
               textAlign: TextAlign.justify,
             ),
@@ -65,7 +66,7 @@ class _AboutViewState extends State<AboutView> {
                       leading: CircleAvatar(
                         backgroundImage: AssetImage("assets/logo.png"),
                       ),
-                      title: Text("Gerald Prana Wibisono"),
+                      title: Text("Gerall Prana Wibisono"),
                       subtitle: Text("Mobile Developer"),
                     ),
                   );
@@ -87,11 +88,11 @@ class _AboutViewState extends State<AboutView> {
               textAlign: TextAlign.justify,
             ),
             SizedBox(height: 10),
-            Text("Email: news@newsupdate.com"),
+            Text("Whatsapp: 089620494008"),
             SizedBox(height: 10),
-            Text("Facebook: news@newsupdate.com"),
+            Text("Facebook: gerald prana"),
             SizedBox(height: 10),
-            Text("Twitter: news@newsupdate.com"),
+            Text("Instagram: geraldpw__"),
             SizedBox(height: 80),
           ],
         ),
